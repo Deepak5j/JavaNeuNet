@@ -1,1 +1,4 @@
-AND Logic gate relization neural network in java.
+# Java Neural Network
+
+* AND Logic gate relization 
+* In java.
